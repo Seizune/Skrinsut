@@ -1,0 +1,18 @@
+{
+  "name": "Skrinsut",
+  "version": "1.0.0",
+  "description": "Membantu kemalasan tukul dalam ngeskrinsut",
+  "main": "make.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.0.0-alpha.12",
+    "npm": "^6.0.0",
+    "puppeteer": "^1.3.0",
+    "update": "^0.7.4"
+  }
+}
